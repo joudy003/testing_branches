@@ -1,10 +1,3 @@
-//
-//  ContentView.swift
-//  mmmmm
-//
-//  Created by Joud Abdullah AlAmri on 10/29/24.
-//
-
 import SwiftUI
 
 struct ContentView: View {
